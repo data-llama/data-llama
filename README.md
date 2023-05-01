@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mak-salis
+- 👋 Hi, I’m @makdea
 - 👀 I’m interested in expanding my data science skills to include machine learning, A/B testing, and webscraping
 - 🌱 I’m currently learning Python, SQL, Git, and how to use different IDEs
 - 💞️ I’m looking to collaborate on data science projects for social good
-- 📫 makenna.salis@gmail.com
+- 📫 samutavi@gmail.com
 
 <!---
 data-llama/data-llama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
